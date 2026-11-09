@@ -20,21 +20,6 @@
 
 Everything in this project connects dynamically to real MySQL database entities via Spring Boot REST APIs — with **zero hardcoded fake jobs, zero fake numbers, and zero fake companies**.
 
----
-
-## 📄 Resume Project Section (Copy-Paste Ready for Your Resume)
-
-> **JobHub — Full-Stack Job Portal & AI Candidate Recommendation System**  
-> **Live Demo:** [jobhub-livid.vercel.app](https://jobhub-livid.vercel.app) | **GitHub:** [github.com/may-ank-dot/job_hub](https://github.com/may-ank-dot/job_hub)  
-> **Tech Stack:** Java 21, Spring Boot 3, Spring Security (JWT), MySQL 8, React 18, Vite, Axios, REST APIs  
-> **AI & Data Science Tech:** Natural Language Processing (NLP) Skill Tokenization, Jaccard Similarity Algorithm, Multi-Factor Weighted Scoring Engine  
-> - **Engineered** a production-ready full-stack job platform supporting Candidate & Recruiter role workflows with stateless **JWT Authentication** and **BCrypt Password Hashing**.
-> - **Implemented** an **AI Candidate Recommendation Engine** (`AiRecommendationService.java`) utilizing NLP skill tokenization, Jaccard Similarity Indexing, and weighted multi-factor scoring (70% Skill + 20% Exp + 10% Location) to compute dynamic candidate match percentages (e.g. 92% Match) and skill gap insights.
-> - **Developed** real-time multi-criteria job search, filtering, and sorting across MySQL database with dynamic pagination (`Page<Job>`).
-> - **Designed** a transparent candidate application status lifecycle pipeline (*APPLIED ➔ REVIEWING ➔ SHORTLISTED ➔ SELECTED / REJECTED*) and 1-click recruiter PDF resume inspection.
-
----
-
 ## 📂 Project Directory Structure
 
 ```
